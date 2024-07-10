@@ -1,0 +1,8 @@
+﻿DESCRIPTION,REQUEST_ID,OUTPUT_NAME,EXTRACTION_TYPE
+"Population by age, gender and census section",t20/e245/p07/a2022/l0/0001.px,pop_gen_age_cs,API_INE
+"Population by nationality, gender and census section",t20/e245/p07/a2022/l0/0002.px,pop_gen_nat_cs,API_INE
+PADRON MUNICIPAL DATOS,https://www.ine.es/censos2021/C2021_Indicadores.xlsx,indicators,PADRON
+PADRON MUNICIPAL LEYENDA,https://www.ine.es/censos2021/indicadores_seccen_c2021.xlsx,legend_indicators,PADRON
+RENTA MEDIA Y MEDIANA,https://www.ine.es/dynt3/inebase/es/index.htm?padre=7132,mean_median_rent,INE_SCRAPPER
+MUNICIPIOS NACIONAL,https://www.ine.es/daco/daco42/codmun/codmun20/20codmun.xlsx,cod_mun_raw,MUNICIPIOS
+MUNICIPIOS NACIONAL,https://www.businessintelligence.info/resources/assets/listado-longitud-latitud-municipios-espana.xls,coord_mun,MUNICIPIOS_COORDENADAS
